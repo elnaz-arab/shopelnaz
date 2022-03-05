@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\shopelnaz\core\bin\Debug\net5.0\core.deps.json
+C:\Users\Admin\Desktop\shopelnaz\core\bin\Debug\net5.0\core.dll
+C:\Users\Admin\Desktop\shopelnaz\core\bin\Debug\net5.0\ref\core.dll
+C:\Users\Admin\Desktop\shopelnaz\core\bin\Debug\net5.0\core.pdb
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.dll
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\ref\core.dll
+C:\Users\Admin\Desktop\shopelnaz\core\obj\Debug\net5.0\core.pdb
